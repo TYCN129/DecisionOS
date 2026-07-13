@@ -57,6 +57,26 @@ function renderCampaign(state) {
     setText("campaign-week", state.campaign.week);
 
     setText("campaign-status", state.campaign.status);
+
+    populateList(
+        "campaign-primary-list",
+        state.campaign.primary
+    );
+
+    populateList(
+        "campaign-secondary-list",
+        state.campaign.secondary
+    );
+
+    populateList(
+        "campaign-maintenance-list",
+        state.campaign.maintenance
+    );
+
+    populateList(
+        "campaign-success-criteria-list",
+        state.campaign.success_criteria
+    );
 }
 
 function renderToday(state) {
