@@ -3,7 +3,7 @@
         "name": "DecisionOS",
         "version": "1.0.0",
         "mode": "NORMAL",
-        "last_updated": "2026-07-13T17:12:51.593337",
+        "last_updated": "2026-07-13T17:15:31.814497",
         "initialized": true
     },
     "user": {
@@ -56,12 +56,18 @@
         "notes": ""
     },
     "today": {
-        "date": null,
-        "mission": "",
-        "artifact": "",
-        "maintenance": [],
-        "success_definition": "",
-        "known_risks": []
+        "date": "2026-07-14",
+        "mission": "Finalize Expense Tracker MVP scope",
+        "artifact": "Written MVP scope decision (locked feature list)",
+        "maintenance": [
+            "Oracle",
+            "Sleep",
+            "Gym"
+        ],
+        "success_definition": "MVP scope is written down and locked as a fixed feature list, not left open for further deliberation.",
+        "known_risks": [
+            "Oracle crunch days this week not yet confirmed"
+        ]
     },
     "execution": {
         "status": "NOT_STARTED",

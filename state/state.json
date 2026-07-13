@@ -69,17 +69,23 @@
   },
 
   "today": {
-    "date": null,
+    "date": "2026-07-14",
 
-    "mission": "",
+    "mission": "Finalize Expense Tracker MVP scope",
 
-    "artifact": "",
+    "artifact": "Written MVP scope decision (locked feature list)",
 
-    "maintenance": [],
+    "maintenance": [
+      "Oracle",
+      "Sleep",
+      "Gym"
+    ],
 
-    "success_definition": "",
+    "success_definition": "MVP scope is written down and locked as a fixed feature list, not left open for further deliberation.",
 
-    "known_risks": []
+    "known_risks": [
+      "Oracle crunch days this week not yet confirmed"
+    ]
   },
 
   "execution": {
