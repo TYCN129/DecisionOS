@@ -10,6 +10,7 @@ async function initialize() {
 
         renderSystem(state);
         renderCampaign(state);
+        renderWeek(state);
         renderToday(state);
         renderExecution(state);
         renderHealth(state);
@@ -76,6 +77,21 @@ function renderCampaign(state) {
     populateList(
         "campaign-success-criteria-list",
         state.campaign.success_criteria
+    );
+}
+
+function renderWeek(state) {
+
+    setText("week-theme", state.week.theme);
+
+    populateList(
+        "week-objectives-list",
+        state.week.objectives
+    );
+
+    populateList(
+        "week-risk-list",
+        state.week.known_risks
     );
 }
 
