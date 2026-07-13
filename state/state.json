@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "mode": "NORMAL",
     "last_updated": null,
-    "initialized": false
+    "initialized": true
   },
 
   "user": {
@@ -17,15 +17,21 @@
   },
 
   "campaign": {
-    "name": "",
-    "status": "NOT_STARTED",
+    "name": "Escape Velocity",
+    "status": "ACTIVE",
     "week": 1,
-    "start_date": null,
-    "end_date": null,
+    "start_date": "2026-07-13",
+    "end_date": "2026-09-07",
 
-    "primary": [],
+    "primary": [
+      "Switch to higher paying company",
+      "Ship Expense Tracker MVP"
+    ],
 
-    "secondary": [],
+    "secondary": [
+      "Personal Brand",
+      "Opportunity Fund"
+    ],
 
     "maintenance": [
       "Oracle",
@@ -35,7 +41,12 @@
       "Relationships"
     ],
 
-    "success_criteria": []
+    "success_criteria": [
+      "System design project (preferably applied AI) built and published",
+      "Expense Tracker MVP shipped and usable end-to-end in production",
+      "At least one Personal Brand artifact published per week",
+      "₹32,000/month set aside into the Opportunity Fund"
+    ]
   },
 
   "week": {
