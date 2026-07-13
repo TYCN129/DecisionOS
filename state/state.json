@@ -52,11 +52,18 @@
   "week": {
     "number": 1,
 
-    "theme": "",
+    "theme": "Start the system design foundation and lock the Expense Tracker MVP scope, while protecting the weekend that's already unavailable.",
 
-    "objectives": [],
+    "objectives": [
+      "Pick a system design learning resource and complete 2 hours of lecture/study",
+      "Finalize Expense Tracker MVP scope and ship exactly one artifact toward it",
+      "Publish one Personal Brand artifact"
+    ],
 
-    "known_risks": [],
+    "known_risks": [
+      "Two days of Oracle work crunch this week (exact days unconfirmed)",
+      "Unavailable Saturday 2026-07-18 and the first half of Sunday 2026-07-19"
+    ],
 
     "notes": ""
   },

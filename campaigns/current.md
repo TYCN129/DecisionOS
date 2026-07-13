@@ -137,7 +137,7 @@ Known risks that could affect campaign success.
 
 ## Week 1
 
--
+- System design resource picked + 2 hrs studied; Expense Tracker MVP scope finalized + one artifact shipped; one Personal Brand artifact published. See weekly/week-001.md.
 
 ## Week 2
 

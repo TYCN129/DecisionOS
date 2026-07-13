@@ -3,7 +3,7 @@
         "name": "DecisionOS",
         "version": "1.0.0",
         "mode": "NORMAL",
-        "last_updated": "2026-07-13T17:01:30.615442",
+        "last_updated": "2026-07-13T17:12:51.593337",
         "initialized": true
     },
     "user": {
@@ -43,9 +43,16 @@
     },
     "week": {
         "number": 1,
-        "theme": "",
-        "objectives": [],
-        "known_risks": [],
+        "theme": "Start the system design foundation and lock the Expense Tracker MVP scope, while protecting the weekend that's already unavailable.",
+        "objectives": [
+            "Pick a system design learning resource and complete 2 hours of lecture/study",
+            "Finalize Expense Tracker MVP scope and ship exactly one artifact toward it",
+            "Publish one Personal Brand artifact"
+        ],
+        "known_risks": [
+            "Two days of Oracle work crunch this week (exact days unconfirmed)",
+            "Unavailable Saturday 2026-07-18 and the first half of Sunday 2026-07-19"
+        ],
         "notes": ""
     },
     "today": {
