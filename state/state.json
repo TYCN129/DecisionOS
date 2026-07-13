@@ -1,0 +1,184 @@
+{
+  "system": {
+    "name": "DecisionOS",
+    "version": "1.0.0",
+    "mode": "NORMAL",
+    "last_updated": null,
+    "initialized": false
+  },
+
+  "user": {
+    "name": "Vedant Bhandare",
+    "timezone": "Asia/Kolkata"
+  },
+
+  "north_star": {
+    "statement": "Maximize long-term freedom by building valuable products, developing rare technical skills, maintaining excellent physical and mental health, and creating multiple independent income streams."
+  },
+
+  "campaign": {
+    "name": "",
+    "status": "NOT_STARTED",
+    "week": 1,
+    "start_date": null,
+    "end_date": null,
+
+    "primary": [],
+
+    "secondary": [],
+
+    "maintenance": [
+      "Oracle",
+      "Sleep",
+      "Gym",
+      "Nutrition",
+      "Relationships"
+    ],
+
+    "success_criteria": []
+  },
+
+  "week": {
+    "number": 1,
+
+    "theme": "",
+
+    "objectives": [],
+
+    "known_risks": [],
+
+    "notes": ""
+  },
+
+  "today": {
+    "date": null,
+
+    "mission": "",
+
+    "artifact": "",
+
+    "maintenance": [],
+
+    "success_definition": "",
+
+    "known_risks": []
+  },
+
+  "execution": {
+    "status": "NOT_STARTED",
+
+    "deep_work_completed": false,
+
+    "mission_completed": false,
+
+    "artifact_created": false
+  },
+
+  "health": {
+    "sleep_hours": 0,
+
+    "gym_completed": false,
+
+    "nutrition": "UNKNOWN",
+
+    "energy": "UNKNOWN",
+
+    "stress": "UNKNOWN"
+  },
+
+  "oracle": {
+    "work_completed": false,
+
+    "notes": ""
+  },
+
+  "personal_brand": {
+    "artifacts": [],
+
+    "followers": 0
+  },
+
+  "business": {
+    "current_product": "",
+
+    "artifact": "",
+
+    "revenue": 0
+  },
+
+  "career": {
+    "applications_this_week": 0,
+
+    "interviews": [],
+
+    "learning_artifact": ""
+  },
+
+  "finance": {
+    "emergency_fund": 0,
+
+    "monthly_investment": 0,
+
+    "notes": ""
+  },
+
+  "relationships": {
+    "meaningful_interaction": false,
+
+    "notes": ""
+  },
+
+  "metrics": {
+    "artifacts_this_week": 0,
+
+    "artifacts_this_campaign": 0,
+
+    "successful_days": 0,
+
+    "recovery_days": 0
+  },
+
+  "compass": {
+    "attention": {
+      "campaign": 0,
+      "oracle": 0,
+      "maintenance": 0,
+      "learning": 0,
+      "planning": 0,
+      "entertainment": 0,
+      "distraction": 0
+    },
+
+    "drift": {
+      "campaign": false,
+      "health": false,
+      "attention": false,
+      "research": false,
+      "relationships": false
+    }
+  },
+
+  "autopilot": {
+    "last_observation": "",
+
+    "root_cause": "",
+
+    "recommendation": ""
+  },
+
+  "recovery": {
+    "active": false,
+
+    "level": 0,
+
+    "reason": "",
+
+    "started_on": null
+  },
+
+  "dashboard": {
+    "headline": "",
+
+    "footer": "Does today's attention increase long-term freedom?"
+  }
+}

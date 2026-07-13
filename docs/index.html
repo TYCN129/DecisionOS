@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DecisionOS</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <header>
+
+            <div class="title">
+                <h1>DecisionOS</h1>
+                <p id="system-version">Version 1.0</p>
+            </div>
+
+            <div class="system-status">
+                <span id="system-mode">NORMAL</span>
+            </div>
+
+        </header>
+
+        <main>
+
+            <section class="card">
+
+                <h2>Current Campaign</h2>
+
+                <h3 id="campaign-name">-</h3>
+
+                <div class="grid">
+
+                    <div>
+                        <h4>Week</h4>
+                        <p id="campaign-week">-</p>
+                    </div>
+
+                    <div>
+                        <h4>Status</h4>
+                        <p id="campaign-status">-</p>
+                    </div>
+
+                </div>
+
+            </section>
+
+            <section class="card">
+
+                <h2>Today's Mission</h2>
+
+                <p id="mission">-</p>
+
+                <h3>Success Definition</h3>
+
+                <p id="success-definition">-</p>
+
+            </section>
+
+            <section class="card">
+
+                <h2>Maintenance</h2>
+
+                <ul id="maintenance-list"></ul>
+
+            </section>
+
+            <section class="card">
+
+                <h2>Known Risks</h2>
+
+                <ul id="risk-list"></ul>
+
+            </section>
+
+            <section class="card">
+
+                <h2>Execution</h2>
+
+                <div class="grid">
+
+                    <div>
+
+                        <h4>Mission</h4>
+
+                        <p id="mission-status">-</p>
+
+                    </div>
+
+                    <div>
+
+                        <h4>Artifact</h4>
+
+                        <p id="artifact-status">-</p>
+
+                    </div>
+
+                </div>
+
+            </section>
+
+            <section class="card">
+
+                <h2>Health</h2>
+
+                <div class="grid">
+
+                    <div>
+
+                        <h4>Sleep</h4>
+
+                        <p id="sleep-hours">-</p>
+
+                    </div>
+
+                    <div>
+
+                        <h4>Gym</h4>
+
+                        <p id="gym-status">-</p>
+
+                    </div>
+
+                    <div>
+
+                        <h4>Nutrition</h4>
+
+                        <p id="nutrition-status">-</p>
+
+                    </div>
+
+                    <div>
+
+                        <h4>Energy</h4>
+
+                        <p id="energy-status">-</p>
+
+                    </div>
+
+                </div>
+
+            </section>
+
+            <section class="card">
+
+                <h2>Attention Allocation</h2>
+
+                <table>
+
+                    <thead>
+
+                        <tr>
+
+                            <th>Area</th>
+
+                            <th>%</th>
+
+                        </tr>
+
+                    </thead>
+
+                    <tbody id="attention-table">
+
+                    </tbody>
+
+                </table>
+
+            </section>
+
+            <section class="card">
+
+                <h2>Autopilot</h2>
+
+                <h3>Observation</h3>
+
+                <p id="observation">-</p>
+
+                <h3>Root Cause</h3>
+
+                <p id="root-cause">-</p>
+
+                <h3>Recommendation</h3>
+
+                <p id="recommendation">-</p>
+
+            </section>
+
+            <section class="card">
+
+                <h2>Recovery</h2>
+
+                <div class="grid">
+
+                    <div>
+
+                        <h4>Active</h4>
+
+                        <p id="recovery-active">-</p>
+
+                    </div>
+
+                    <div>
+
+                        <h4>Level</h4>
+
+                        <p id="recovery-level">-</p>
+
+                    </div>
+
+                </div>
+
+            </section>
+
+        </main>
+
+        <footer>
+
+            <p id="dashboard-footer">
+                Does today's attention increase long-term freedom?
+            </p>
+
+            <small id="last-updated">
+                Last Updated: -
+            </small>
+
+        </footer>
+
+    </div>
+
+    <script src="app.js"></script>
+
+</body>
+
+</html>
