@@ -52,9 +52,9 @@ Description: Publish one Personal Brand artifact.
 
 Success Criteria: One post/writeup published.
 
-Status: Not Started
+Status: Complete
 
-Artifact: -
+Artifact: Post published 2026-07-13 (details not recorded)
 
 ---
 
@@ -94,7 +94,7 @@ Total = 100%
 
 | Date | Artifact | Campaign Objective |
 |------|----------|-------------------|
-| | | |
+| 2026-07-13 | Personal Brand post | Secondary Objective 1 (Personal Brand) |
 
 ---
 

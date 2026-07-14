@@ -71,9 +71,9 @@
   "today": {
     "date": "2026-07-14",
 
-    "mission": "Finalize Expense Tracker MVP scope",
+    "mission": "Pick a system design resource",
 
-    "artifact": "Written MVP scope decision (locked feature list)",
+    "artifact": "System design resource selected (written decision)",
 
     "maintenance": [
       "Oracle",
@@ -81,7 +81,7 @@
       "Gym"
     ],
 
-    "success_definition": "MVP scope is written down and locked as a fixed feature list, not left open for further deliberation.",
+    "success_definition": "One system design learning resource is chosen and written down as the locked-in choice, not left open for further comparison.",
 
     "known_risks": [
       "Oracle crunch days this week not yet confirmed"
@@ -117,7 +117,9 @@
   },
 
   "personal_brand": {
-    "artifacts": [],
+    "artifacts": [
+      "2026-07-13: Post published"
+    ],
 
     "followers": 0
   },
@@ -153,9 +155,9 @@
   },
 
   "metrics": {
-    "artifacts_this_week": 0,
+    "artifacts_this_week": 1,
 
-    "artifacts_this_campaign": 0,
+    "artifacts_this_campaign": 1,
 
     "successful_days": 0,
 
